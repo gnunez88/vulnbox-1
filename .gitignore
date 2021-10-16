@@ -1,0 +1,7 @@
+# Ignore the virtual machine
+*.ova
+# Ignore LaTeX files, but the main one
+**/*.aux
+**/*.log
+**/*.out
+**/*.toc
